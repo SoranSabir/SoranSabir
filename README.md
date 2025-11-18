@@ -1,6 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=SoranSabir&color=blue)
 
-<h1 align="center">Hi 👋, I'm Soran</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Calbri&duration=2000&pause=1000&multiline=true&width=500&height=80&lines=Soran+Sabir;Computer+Science+%7C+Problem-solver;Entertainment+%7C+Sports+%7C+Outdoor+Enthusiasm" alt="Typing SVG">
+
+</p>
+
 
 ```python
 class Soran:
